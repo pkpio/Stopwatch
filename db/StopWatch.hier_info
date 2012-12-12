@@ -1,0 +1,5 @@
+|StopWatch
+clk => always0.IN0
+Interrupt => always0.IN0
+
+
